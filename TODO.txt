@@ -1,0 +1,4 @@
+1. Test Decision Tree Regression
+2. Test Stochastic Gradient Descent
+3. Test Isotonic Regression
+4. Test KBinsDiscretizer to discretize continuous features
